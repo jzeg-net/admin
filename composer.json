@@ -1,0 +1,34 @@
+{
+  "name": "jzeg-net/admin",
+  "type": "project",
+  "license": "AGPL-3.0",
+  "authors": [
+    {
+      "name": "张成林",
+      "email": "admin@jzeg.net"
+    }
+  ],
+  "require": {
+    "php": "^7.3",
+    "thingengineer/mysqli-database-class": "^2.9",
+    "google/recaptcha": "^1.2.4",
+    "ext-json": "*",
+    "ext-gd": "*",
+    "ext-mbstring": "*",
+    "alibabacloud/sdk": "^1.8",
+    "gregwar/captcha": "^1.1"
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^2.16",
+    "php-coveralls/php-coveralls": "^2.2",
+    "phpunit/phpunit": "^9.1"
+  },
+  "scripts": {
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    }
+  }
+}
