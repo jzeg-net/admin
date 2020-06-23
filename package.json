@@ -37,7 +37,7 @@
   "homepage": "https://github.com/jzeg-net/admin#readme",
   "peerDependencies": {},
   "devDependencies": {
-    "autoprefixer": "^9.8.0",
+    "autoprefixer": "^9.8.3",
     "del": "^5.1.0",
     "eslint-config-google": "^0.14.0",
     "gulp": "^4.0.2",
@@ -48,12 +48,12 @@
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-terser": "^1.2.0",
-    "stylelint": "^13.5.0"
+    "stylelint": "^13.6.1"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.0",
+    "@fortawesome/fontawesome-free": "^5.13.1",
     "animate.css": "^4.1.0",
-    "antd": "^4.2.4",
+    "antd": "^4.3.5",
     "blueimp-md5": "^2.16.0",
     "bootstrap": "^4.5.0",
     "bootstrap-colorpicker": "^3.2.0",
@@ -61,7 +61,7 @@
     "bootstrap-table": "^1.16.0",
     "bs-custom-file-input": "^1.3.4",
     "clipboard": "^2.0.6",
-    "dayjs": "^1.8.27",
+    "dayjs": "^1.8.28",
     "fundebug-javascript": "^2.4.0",
     "hamburgers": "^1.1.3",
     "hover.css": "^2.3.2",
